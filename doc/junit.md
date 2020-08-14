@@ -2,8 +2,7 @@
 -----
 ### 执行顺序
 
-![执行顺序](https://github.com/brentforgithub/notebook/blob/master/image/junit4-1.png)
-
+![执行顺序](../image/junit4-1.png)
 
 @BeforeClass：针对所有测试，只执行一次，且必须为static void  
 @Before：初始化方法  
