@@ -18,3 +18,7 @@
     - E、@Test(timeout = xxx) 注解：设置当前测试方法在一定时间内运行完，否则返回错误；  
     - F、@Test(expected = Exception.class) 注解：设置被测试的方法是否有异常抛出。抛出异常类型为：Exception.class；  
     - G、@Ignore 注解：注释掉一个测试方法或一个类，被注释的方法或类，不会被执行。  
+
+
+--------
+[《《 返回主页](../readme.md)
