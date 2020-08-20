@@ -73,6 +73,8 @@ public class Config {
 
     list和maps 的方式，一定要用""把map所对应的value包起来，要不然解析会失败，导致不能转成 Map<String,String>。
 
+    #{}是spring的表达式语言，可以用于默认值、计算、bean方法、配置集合类型
+
 
 --------
 [《《 返回主页](../readme.md)
