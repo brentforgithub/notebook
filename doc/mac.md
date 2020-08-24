@@ -10,7 +10,8 @@
 
     open .
 
-
+### 查端口占用
+sudo lsof -i tcp:3032
 
 --------
 [《《 返回主页](../readme.md)
